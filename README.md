@@ -2,6 +2,10 @@
 
 📊 Welcome to the PowerBiEcommerceSalesDashboard repository! This repository contains an interactive sales data dashboard created using Power BI, designed to provide valuable insights into e-commerce sales performance.
 
+## Screenshots of dashboard
+
+![dashboard screenshot](https://github.com/MrChauhan6465/PowerBi_EcommerceSales_Dashboard/assets/89354259/79c3ab21-2f31-4385-83d0-68c5271360f9)
+
 ## Features
 
 - ✨ Complex Parameters: Dive deep into the data with advanced parameters, allowing for in-depth analysis and exploration.
@@ -22,7 +26,7 @@ To explore the PowerBiEcommerceSalesDashboard:
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
 
-##Screenshots of dashboard
+
 
 
 ## Acknowledgements
